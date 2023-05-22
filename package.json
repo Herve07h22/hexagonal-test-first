@@ -1,0 +1,15 @@
+{
+  "name": "dreamt-ecommerceapp",
+  "version": "1.0.0",
+  "description": "Example of e-commerce app driven by component test",
+  "main": "index.ts",
+  "author": "Herve07h22",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "vitest": "^0.30.1"
+  },
+  "scripts": {
+    "test":"vitest"
+  }
+}
